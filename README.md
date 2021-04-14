@@ -1,2 +1,0 @@
-# lacelstore
-ecommerce project
